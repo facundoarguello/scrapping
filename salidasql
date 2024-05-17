@@ -1,0 +1,40 @@
+
+    UPDATE api_teams_by_country SET id_league = 140 WHERE  id_team = 529;
+
+    UPDATE api_teams_by_country SET id_league = 140 WHERE  id_team = 530;
+
+    UPDATE api_teams_by_country SET id_league = 140 WHERE  id_team = 531;
+
+    UPDATE api_teams_by_country SET id_league = 140 WHERE  id_team = 532;
+
+    UPDATE api_teams_by_country SET id_league = 140 WHERE  id_team = 533;
+
+    UPDATE api_teams_by_country SET id_league = 140 WHERE  id_team = 536;
+
+    UPDATE api_teams_by_country SET id_league = 140 WHERE  id_team = 538;
+
+    UPDATE api_teams_by_country SET id_league = 140 WHERE  id_team = 540;
+
+    UPDATE api_teams_by_country SET id_league = 140 WHERE  id_team = 541;
+
+    UPDATE api_teams_by_country SET id_league = 140 WHERE  id_team = 543;
+
+    UPDATE api_teams_by_country SET id_league = 140 WHERE  id_team = 546;
+
+    UPDATE api_teams_by_country SET id_league = 140 WHERE  id_team = 547;
+
+    UPDATE api_teams_by_country SET id_league = 140 WHERE  id_team = 548;
+
+    UPDATE api_teams_by_country SET id_league = 140 WHERE  id_team = 720;
+
+    UPDATE api_teams_by_country SET id_league = 140 WHERE  id_team = 723;
+
+    UPDATE api_teams_by_country SET id_league = 140 WHERE  id_team = 724;
+
+    UPDATE api_teams_by_country SET id_league = 140 WHERE  id_team = 727;
+
+    UPDATE api_teams_by_country SET id_league = 140 WHERE  id_team = 728;
+
+    UPDATE api_teams_by_country SET id_league = 140 WHERE  id_team = 797;
+
+    UPDATE api_teams_by_country SET id_league = 140 WHERE  id_team = 798;
